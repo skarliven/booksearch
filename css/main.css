@@ -3,25 +3,12 @@ body   {
 	background-image:url("https://media-private.canva.com/MACHGy2Nd5M/1/screen-1.png?response-expires=Thu%2C%2028%20Jun%202018%2022%3A35%3A17%20GMT&AWSAccessKeyId=AKIAJWF6QO3UH4PAAJ6Q&Expires=1530225317&Signature=5DMPam9ZSo6H6D1GunEFilMBFmU%3D");
 }
 
-
-div.bk {
-	display: inline-block;
-	width: 28%;
-	margin: 2%;
-	vertical-align: top;
-	height: 550px;
-	position: relative;
-}
-
-div.bk img {
-
-	height: 300px;
-	width: 100%;
-	object-fit: cover;
-	/*vertical-align: bottom;*/
-	position: absolute;
-	bottom: 0;
-	left: 0;
+p {
+    
+    margin-top: 0;
+    margin-bottom: 1rem;
+    background-color: #bc4ed6bd;
+    color: white;
 }
 
 .text-danger {
@@ -36,7 +23,7 @@ div.bk img {
 
 .btn {
     position: absolute;
-    top: %;
+    top: 19%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
