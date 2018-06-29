@@ -1,6 +1,9 @@
 .one{margin:0 auto;}
 body   {
-	background-image:url("https://media-private.canva.com/MACHGy2Nd5M/1/screen-1.png?response-expires=Thu%2C%2028%20Jun%202018%2022%3A35%3A17%20GMT&AWSAccessKeyId=AKIAJWF6QO3UH4PAAJ6Q&Expires=1530225317&Signature=5DMPam9ZSo6H6D1GunEFilMBFmU%3D");
+	background-image:url("https://media-public.canva.com/MACViGoajE8/1/screen.jpg");
+    background-size: cover;
+    font-family: 'Tinos', serif;
+    width: 100%;
 }
 
 p {
