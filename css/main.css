@@ -1,0 +1,60 @@
+.one{margin:0 auto;}
+body   {
+	background-image:url("https://media-private.canva.com/MACHGy2Nd5M/1/screen-1.png?response-expires=Thu%2C%2028%20Jun%202018%2022%3A35%3A17%20GMT&AWSAccessKeyId=AKIAJWF6QO3UH4PAAJ6Q&Expires=1530225317&Signature=5DMPam9ZSo6H6D1GunEFilMBFmU%3D");
+}
+
+
+div.bk {
+	display: inline-block;
+	width: 28%;
+	margin: 2%;
+	vertical-align: top;
+	height: 550px;
+	position: relative;
+}
+
+div.bk img {
+
+	height: 300px;
+	width: 100%;
+	object-fit: cover;
+	/*vertical-align: bottom;*/
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.text-danger {
+    color: #E7245D;
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.btn {
+    position: absolute;
+    top: %;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 1px 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #40aeb7;
+    color: white;
+}
+input, button {
+	display: block;
+	margin: 0 auto;
+}
